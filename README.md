@@ -28,3 +28,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunjal293&show_icons=true&locale=en&layout=compact" alt="kunjal293" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunjal293&" alt="kunjal293" /></p>
+
+## Snake eating my contribution Graph 
+
+![snake gif](https://github.com/kunjal293/kunjal293/blob/output/github-contribution-grid-snake.gif)
