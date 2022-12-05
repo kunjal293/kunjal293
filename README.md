@@ -5,7 +5,8 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunjal293&label=Profile%20views&color=0e75b6&style=flat" alt="kunjal293" /> </p>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunjal293&label=Profile%20views&color=0e75b6&style=flat" alt="kunjal293" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunjal293" alt="kunjal293" /></a> </p>
 
 - 🌱 I’m currently learning **Competitive Programming**
 
@@ -14,11 +15,9 @@
 - 💬 Ask me about **Data structures and Algorithms, HTML ,CSS**
 
 - 📫 How to reach me **kunjal.chachra@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AE4BfjR9WXDb5heQ_wLiy8NQNU_z5cnN/view](https://drive.google.com/file/d/1AE4BfjR9WXDb5heQ_wLiy8NQNU_z5cnN/view)
-- - 📫 How to reach me **kunjal.chachra@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1AE4BfjR9WXDb5heQ_wLiy8NQNU_z5cnN/view](https://drive.google.com/file/d/1AE4BfjR9WXDb5heQ_wLiy8NQNU_z5cnN/view)
-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kunjal-chachra-ab3a63145/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunjal-chachra-ab3a63145/" height="30" width="40" /></a>
