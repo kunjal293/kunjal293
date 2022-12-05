@@ -15,6 +15,9 @@
 
 - 📫 How to reach me **kunjal.chachra@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1AE4BfjR9WXDb5heQ_wLiy8NQNU_z5cnN/view](https://drive.google.com/file/d/1AE4BfjR9WXDb5heQ_wLiy8NQNU_z5cnN/view)
+- - 📫 How to reach me **kunjal.chachra@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1AE4BfjR9WXDb5heQ_wLiy8NQNU_z5cnN/view](https://drive.google.com/file/d/1AE4BfjR9WXDb5heQ_wLiy8NQNU_z5cnN/view)
 - 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
