@@ -7,8 +7,8 @@
 
 
 
-- 🌱 I’m currently learning **Python programming**
-
+- 🌱 I’m currently learning **CNN**
+ 🌱 I’m currently doing internship as Data Science Intern @  **Capgemini**
 - 👨‍💻 All of my projects are available at [https://github.com/kunjal293](https://github.com/kunjal293)
 
 - 💬 Ask me about **Data structures and Algorithms, HTML ,CSS , Deep Learning , postman**
